@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    height: 100%;
+    margin: auto;
+    max-width: 700px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-field {
+    width: 80%;
+    display: flex;
+    padding-left: 1em;
+    padding-right: 1em;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.input-stock {
+    border-radius: 0;
+    height: 30px;
+    font-size: 1rem;
+    width: 50%;
+    padding: 0 15px 0 15px;
+    border: 2px solid #94b5f3;
+    outline: none;
+}
+
+.input-button {
+    width: 18%;
+    border-radius: 0.4em;
+    font-size: 15px;
+    height: 35px;
+    background-color: #9ed3ff;
+    box-shadow: 0 2px 10px 1px rgba(0, 0, 0, 0.2);
+    border: 1px solid #4975c7;
+    cursor: pointer;
+    transition: all 100ms ease-in-out;
+}
+
+.input-button:hover {
+    transition: all 100ms ease-in-out;
+    background-color: #bee2ff;
+}
+
+.stock {
+    width: 90%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    border-radius: 0.8em;
+    border: 1px solid #56b356;
+    margin-bottom: 10px;
+}
+
+.container-logoStock,
+.container-companyName,
+.container-price {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.container-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+    width: 100px;
+}
+
+.title-price {
+    padding-left: 4em;
+    text-align: right;
+}
+
+.icon-arrow {
+    height: 20px;
+
+}
+
+.icon-delete,
+.icon-update {
+    height: 18px;
+}
+
+.separator {
+    border-left: 1px solid #4975c7;
+    height: 40px;
+}
+
+.btn-delete,
+.btn-update {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.logo-img {
+    object-fit: contain;
+    height: 80px;
+    width: 80px;
+}
+
+.title-company {
+    text-align: center;
+}
+
+.es-positivo {
+    color: #56b356;
+}
+
+.es-negativo {
+    color: red;
+
+}
+
+.confirm-label {
+    color: #56b356;
+}
+
+.confirm-label-delete,
+.label-error {
+    color: red;
+}
