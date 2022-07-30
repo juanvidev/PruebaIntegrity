@@ -2,10 +2,11 @@
 
 Monitor de finanzas
 
-### Notas
-Ejecucion del backend en la raiz
+### Indicaciones
+
+Para ejecucion del backend en la raiz del proyecto
  ```
  > npm run start
  ```
-Abrir la carpeta index.html del frontend
- ```
+Para ejecucion del frontend abrir la carpeta index.html del frontend
+ 
