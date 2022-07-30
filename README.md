@@ -1,11 +1,11 @@
 # PruebaIntegrity
 Esta es una prueba para puesto de trabajo en Integrity
 
-## Descripcion
+## Descripcion de la prueba
 
-Se creo un Monitor de finanzas utilizando solamente NodeJS, JavaScript, HTML Y CSS vanilla sin ningun framework ni modulos externos.
+Realizar Monitor de finanzas utilizando solamente NodeJS, JavaScript, HTML Y CSS vanilla sin ningun framework ni modulos externos.
 
-## Indicaciones
+## Ejecutar la app
 
 Para ejecucion del servidor en el backend situarse en la raiz del proyecto y ejecutar el comando:
  ```
