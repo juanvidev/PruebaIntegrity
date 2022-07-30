@@ -7,13 +7,13 @@ Se creo un Monitor de finanzas utilizando solamente NodeJS, JavaScript, HTML Y C
 
 ## Indicaciones
 
-Para ejecucion del backend en la raiz del proyecto
+Para ejecucion del servidor en el backend situarse en la raiz del proyecto y ejecutar el comando:
  ```
  > npm run start
  ```
-Para ejecucion del frontend 
+Para visualizacion del frontend: 
  ```
- Abrir la carpeta index.html del  proyecto frontend en el navegador
+ Abrir la carpeta index.html del proyecto en el navegador
  ```
 
 Una vez realizado las dos indicaciones se podra acceder al localhost para el servidor del backend en el puerto 3000.
