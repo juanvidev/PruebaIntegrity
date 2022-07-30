@@ -13,7 +13,7 @@ Para ejecucion del backend en la raiz del proyecto
  ```
 Para ejecucion del frontend 
  ```
- > abrir la carpeta index.html del  proyecto frontend en el navegador
+ Abrir la carpeta index.html del  proyecto frontend en el navegador
  ```
 
 Una vez realizado las dos indicaciones se podra acceder al localhost para el servidor del backend en el puerto 3000.
